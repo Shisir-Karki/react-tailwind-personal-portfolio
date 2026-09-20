@@ -47,29 +47,29 @@ export const About = () => {
 
             <div className="space-y-8 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a BSc.CSIT student and aspiring frontend developer with a strong
-                interest in building modern, responsive, and user-friendly web
+                I'm a BSc.CSIT student and an aspiring frontend developer with a strong
+                interest in building modern, responsive and user-friendly web
                 applications. My journey into web development started with learning
-                HTML, CSS, and JavaScript, and has grown into working with React and
+                HTML, CSS, and JavaScript and has grown into working with React and
                 Tailwind CSS.
               </p>
 
               <p>
                 I enjoy turning ideas into practical projects and using what I learn to
                 build real applications. I've worked on projects ranging from an
-                e-commerce application to a collaborative academic project, and I'm
-                currently expanding my skills in React, TypeScript, and modern web
+                e-commerce application to a collaborative academic project and I'm
+                currently expanding my skills in React, TypeScript and modern web
                 development.
               </p>
 
               <p>
-                When I'm not coding, I enjoy exploring new technologies, working on personal projects, and finding better ways to solve problems.
+                When I'm not coding, I enjoy exploring new technologies, working on personal projects and finding better ways to solve problems.
               </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My goal is to build web experiences that are    simple, responsive, and enjoyable to use while continuously learning and growing as a developer."
+                "My goal is to build web experiences that are    simple, responsive and enjoyable to use while continuously learning and growing as a developer."
               </p>
             </div>
           </div>
