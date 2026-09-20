@@ -5,24 +5,24 @@ const highlights = [
     icon: Code2,
     title: "Clean Code",
     description: 
-      "Writing maintainable, scalable code that stands the test of time."
+      "Writing maintainable, scalable code while following good development practices. "
   },
   {
     icon: Rocket,
     title: "Performance",
     description:
-      "Optimizing for speed and delivering lightning-fast user experiences.",
+      "Building responsive web experiences with a focus on usability and performance.",
   },
   {
     icon: Users,
     title: "Collaboration",
-    description: "Working closely with teams to bring ideas to life.",
+    description: "Working effectively with others, sharing ideas, and contributing to team projects.",
   },
   {
     icon: Lightbulb,
     title: "Innovation",
     description:
-      "Staying ahead with the latest technologies and best practices.",
+      "Exploring new technologies and continuously improving my skills through hands-on projects.",
   },
 ];
 
