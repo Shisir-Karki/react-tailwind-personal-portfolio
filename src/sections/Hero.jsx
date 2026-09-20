@@ -130,7 +130,7 @@ export const Hero = () => {
         {/* Skills */}
         <div className="mt-20 animate-fade-in animation-delay-600">
           <p className="text-sm text-muted-foreground mb-6 text-center">
-            Techonolgies I work with
+            Technologies I work with
           </p>
           <div className="relative overflow-hidden">
             <div className="flex animate-marquee">
