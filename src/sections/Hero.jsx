@@ -2,7 +2,7 @@ import { ArrowRight, ChevronDown, Download} from 'lucide-react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { Button } from '@/components/Button';
 import { AnimatedBorderButton } from '@/components/AnimatedBorderButton';
-import CV from '@/assets/cv/Shisir-Karki-CV.pdf';
+import cv from '@/assets/cv/ShisirKarkiCV.pdf';
 
 const skills = [
   "HTML",
@@ -79,7 +79,7 @@ export const Hero = () => {
                   Contact Me <ArrowRight className="w-5 h-5" />
                 </Button>
               </a>
-              <a href={CV} donwload="Shisir-Karki-CV.pdf">
+              <a href={cv} target="_blank" download="ShisirKarkiCV.pdf">
                 <AnimatedBorderButton >
                   <Download className="w-5 h-5"/>
                   Download CV
