@@ -9,7 +9,7 @@ const projects = [
       "A responsive e-commerce website built with vanilla JavaScript featuring product browsing, shopping cart functionality, delivery options, and order tracking.",
     image: "/projects/project1.png",
     tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    link: "#projects",
     github: "https://github.com/Shisir-Karki/javascript-amazon-project",
   },
   {
@@ -27,7 +27,7 @@ const projects = [
       "A full-stack blog application with a React frontend and backend API for user authentication, blog creation, and managing blog content.",
     image: "/projects/project3.png",
     tags: ["React", "TypeScript", "Hono", "Prisma"],
-    link: "#",
+    link: "#projects",
     github: "https://github.com/Shisir-Karki/blog-application",
   },
   {
@@ -36,9 +36,18 @@ const projects = [
       "A React and TypeScript e-commerce application featuring product search, shopping cart management, checkout, delivery options, order history, and package tracking.",
     image: "/projects/project4.png",
     tags: ["React", "TypeScript", "Axios", "React Router"],
-    link: "#",
+    link: "#projects",
     github: "https://github.com/Shisir-Karki/react-ecommerce-project",
   },
+  {
+  title: "World Atlas",
+  description:
+    "A React-based country exploration application that uses a REST API to display country information, with search and region filtering, dynamic country details, and client-side routing.",
+  image: "/projects/project5.png",
+  tags: ["React", "JavaScript", "Axios", "React Router"],
+  link: "#projects",
+  github: "https://github.com/Shisir-Karki/react-world-atlas",
+},
 ];
 
 export const Projects = () => {
