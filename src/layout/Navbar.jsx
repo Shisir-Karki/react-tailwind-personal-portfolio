@@ -13,10 +13,11 @@ const navLinks = [
   }, {
     href: '#experience',
     label: 'Development Journey'
-  }, {
-    href: '#testimonials',
-    label: 'Testimonials'
-  }
+  }, 
+  // {
+  //   href: '#testimonials',
+  //   label: 'Testimonials'
+  // }
 ];
 
 export const Navbar = () => {
