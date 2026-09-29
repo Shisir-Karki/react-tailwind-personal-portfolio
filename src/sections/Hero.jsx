@@ -2,7 +2,7 @@ import { ArrowRight, ChevronDown, Download} from 'lucide-react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { Button } from '@/components/Button';
 import { AnimatedBorderButton } from '@/components/AnimatedBorderButton';
-import cv from '@/assets/cv/ShisirKarkiCV.pdf';
+import cv from '/ShisirKarkiCV.pdf';
 
 const skills = [
   "HTML",
